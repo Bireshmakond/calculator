@@ -1,2 +1,2 @@
-# calculator-using-jdbc
+# calculator
 calculator
